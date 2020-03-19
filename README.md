@@ -11,11 +11,6 @@ instruction for run this app.
 	3. static Admin Id = "n@gmail.com" password="admin123";
 	4.dont delete "Admin" and "User" Role.
 
-
-=================================================================
-			BENOJIR KHANOM 
-			id-1251678
-			CGNT/ESAD-CS/41-M/01
 =================================================================-->
 
 Id = "n@gmail.com" password="admin123";
