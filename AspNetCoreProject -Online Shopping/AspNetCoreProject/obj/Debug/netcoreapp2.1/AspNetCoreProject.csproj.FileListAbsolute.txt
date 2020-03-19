@@ -1,0 +1,559 @@
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\bin\Debug\netcoreapp2.1\appsettings.json
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.deps.json
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.runtimeconfig.json
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.runtimeconfig.dev.json
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.dll
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.RazorAssemblyInfo.cache
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.RazorAssemblyInfo.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.AssemblyInfoInputs.cache
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.AssemblyInfo.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.TagHelpers.input.cache
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.TagHelpers.output.cache
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.RazorCoreGenerate.cache
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.RazorTargetAssemblyInfo.cache
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.RazorTargetAssemblyInfo.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Account\Logout.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Account\Roll.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Account\RollMappingToUser.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Account\RollMappingToUserList.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\Setting.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Create.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Delete.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Details.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Edit.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Index.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Create.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Delete.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Details.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Edit.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Index.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Create.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Delete.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Details.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Edit.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Index.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Create.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Delete.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Details.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Edit.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Index.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Student_Result\Create.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Student_Result\Delete.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Student_Result\Details.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Student_Result\Edit.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Student_Result\Index.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.dll
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.pdb
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.pdb
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.Views.dll
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.Views.pdb
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.Views.pdb
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.csproj.CopyComplete
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.csprojAssemblyReference.cache
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Create.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Delete.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Details.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Edit.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Index.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Customers\Create.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Customers\Delete.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Customers\Details.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Customers\Edit.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Customers\Index.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\CustomerReviews\Create.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\CustomerReviews\Delete.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\CustomerReviews\Details.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\CustomerReviews\Edit.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\CustomerReviews\Index.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\DeliveryBoys\Create.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\DeliveryBoys\Delete.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\DeliveryBoys\Details.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\DeliveryBoys\Edit.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\DeliveryBoys\Index.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Employees\Create.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Employees\Delete.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Employees\Details.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Employees\Edit.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Employees\Index.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Orders\Create.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Orders\Delete.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Orders\Details.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Orders\Edit.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Orders\Index.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\OrderDtls\Create.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\OrderDtls\Delete.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\OrderDtls\Details.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\OrderDtls\Edit.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\OrderDtls\Index.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Products\Create.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Products\Delete.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Products\Details.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Products\Edit.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Products\Index.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\ShippingInfoes\Create.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\ShippingInfoes\Delete.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\ShippingInfoes\Details.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\ShippingInfoes\Edit.cshtml.g.cs
+F:\9th-Module\AspNetCoreProject\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\ShippingInfoes\Index.cshtml.g.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.deps.json
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.runtimeconfig.json
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.runtimeconfig.dev.json
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.dll
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.pdb
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.Views.dll
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.Views.pdb
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.csproj.CoreCompileInputs.cache
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.RazorAssemblyInfo.cache
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.RazorAssemblyInfo.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.AssemblyInfoInputs.cache
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.AssemblyInfo.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.TagHelpers.input.cache
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.TagHelpers.output.cache
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.RazorCoreGenerate.cache
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Account\Logout.g.cshtml.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.g.cshtml.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Account\Roll.g.cshtml.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Account\RollMappingToUser.g.cshtml.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Account\RollMappingToUserList.g.cshtml.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Create.g.cshtml.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Delete.g.cshtml.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Details.g.cshtml.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Edit.g.cshtml.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Index.g.cshtml.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\CustomerReviews\Create.g.cshtml.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\CustomerReviews\Delete.g.cshtml.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\CustomerReviews\Details.g.cshtml.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\CustomerReviews\Edit.g.cshtml.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\CustomerReviews\Index.g.cshtml.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Customers\Create.g.cshtml.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Customers\Delete.g.cshtml.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Customers\Details.g.cshtml.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Customers\Edit.g.cshtml.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Customers\Index.g.cshtml.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\DeliveryBoys\Create.g.cshtml.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\DeliveryBoys\Delete.g.cshtml.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\DeliveryBoys\Details.g.cshtml.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\DeliveryBoys\Edit.g.cshtml.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\DeliveryBoys\Index.g.cshtml.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Employees\Create.g.cshtml.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Employees\Delete.g.cshtml.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Employees\Details.g.cshtml.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Employees\Edit.g.cshtml.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Employees\Index.g.cshtml.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\Setting.g.cshtml.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Create.g.cshtml.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Delete.g.cshtml.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Details.g.cshtml.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Edit.g.cshtml.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Index.g.cshtml.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Create.g.cshtml.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Delete.g.cshtml.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Details.g.cshtml.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Edit.g.cshtml.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Index.g.cshtml.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Create.g.cshtml.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Delete.g.cshtml.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Details.g.cshtml.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Edit.g.cshtml.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Index.g.cshtml.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\OrderDtls\Create.g.cshtml.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\OrderDtls\Delete.g.cshtml.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\OrderDtls\Details.g.cshtml.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\OrderDtls\Edit.g.cshtml.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\OrderDtls\Index.g.cshtml.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Orders\Create.g.cshtml.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Orders\Delete.g.cshtml.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Orders\Details.g.cshtml.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Orders\Edit.g.cshtml.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Orders\Index.g.cshtml.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Products\Create.g.cshtml.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Products\Delete.g.cshtml.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Products\Details.g.cshtml.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Products\Edit.g.cshtml.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Products\Index.g.cshtml.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\ShippingInfoes\Create.g.cshtml.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\ShippingInfoes\Delete.g.cshtml.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\ShippingInfoes\Details.g.cshtml.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\ShippingInfoes\Edit.g.cshtml.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\ShippingInfoes\Index.g.cshtml.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Create.g.cshtml.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Delete.g.cshtml.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Details.g.cshtml.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Edit.g.cshtml.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Index.g.cshtml.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Student_Result\Create.g.cshtml.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Student_Result\Delete.g.cshtml.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Student_Result\Details.g.cshtml.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Student_Result\Edit.g.cshtml.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Student_Result\Index.g.cshtml.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.RazorTargetAssemblyInfo.cache
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.RazorTargetAssemblyInfo.cs
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.Views.pdb
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.dll
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.pdb
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.csproj.CopyComplete
+D:\9 modiul\aka-20200229T033605Z-001\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.csprojAssemblyReference.cache
+F:\9th-Module\aka\AspNetCoreProject\bin\Debug\netcoreapp2.1\appsettings.json
+F:\9th-Module\aka\AspNetCoreProject\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+F:\9th-Module\aka\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.deps.json
+F:\9th-Module\aka\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.runtimeconfig.json
+F:\9th-Module\aka\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.runtimeconfig.dev.json
+F:\9th-Module\aka\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.dll
+F:\9th-Module\aka\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.pdb
+F:\9th-Module\aka\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.Views.dll
+F:\9th-Module\aka\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.Views.pdb
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.RazorAssemblyInfo.cache
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.RazorAssemblyInfo.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.AssemblyInfoInputs.cache
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.AssemblyInfo.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.TagHelpers.input.cache
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.TagHelpers.output.cache
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.RazorCoreGenerate.cache
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.cshtml.g.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Account\Logout.cshtml.g.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.cshtml.g.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Account\Roll.cshtml.g.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Account\RollMappingToUser.cshtml.g.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Account\RollMappingToUserList.cshtml.g.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Create.cshtml.g.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Delete.cshtml.g.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Details.cshtml.g.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Edit.cshtml.g.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Index.cshtml.g.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\CustomerReviews\Create.cshtml.g.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\CustomerReviews\Delete.cshtml.g.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\CustomerReviews\Details.cshtml.g.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\CustomerReviews\Edit.cshtml.g.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\CustomerReviews\Index.cshtml.g.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Customers\Create.cshtml.g.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Customers\Delete.cshtml.g.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Customers\Details.cshtml.g.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Customers\Edit.cshtml.g.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Customers\Index.cshtml.g.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\DeliveryBoys\Create.cshtml.g.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\DeliveryBoys\Delete.cshtml.g.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\DeliveryBoys\Details.cshtml.g.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\DeliveryBoys\Edit.cshtml.g.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\DeliveryBoys\Index.cshtml.g.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Employees\Create.cshtml.g.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Employees\Delete.cshtml.g.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Employees\Details.cshtml.g.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Employees\Edit.cshtml.g.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Employees\Index.cshtml.g.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\Setting.cshtml.g.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Create.cshtml.g.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Delete.cshtml.g.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Details.cshtml.g.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Edit.cshtml.g.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Index.cshtml.g.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Create.cshtml.g.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Delete.cshtml.g.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Details.cshtml.g.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Edit.cshtml.g.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Index.cshtml.g.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Create.cshtml.g.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Delete.cshtml.g.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Details.cshtml.g.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Edit.cshtml.g.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Index.cshtml.g.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\OrderDtls\Create.cshtml.g.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\OrderDtls\Delete.cshtml.g.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\OrderDtls\Details.cshtml.g.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\OrderDtls\Edit.cshtml.g.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\OrderDtls\Index.cshtml.g.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Orders\Create.cshtml.g.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Orders\Delete.cshtml.g.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Orders\Details.cshtml.g.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Orders\Edit.cshtml.g.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Orders\Index.cshtml.g.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Products\Create.cshtml.g.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Products\Delete.cshtml.g.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Products\Details.cshtml.g.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Products\Edit.cshtml.g.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Products\Index.cshtml.g.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\ShippingInfoes\Create.cshtml.g.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\ShippingInfoes\Delete.cshtml.g.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\ShippingInfoes\Details.cshtml.g.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\ShippingInfoes\Edit.cshtml.g.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\ShippingInfoes\Index.cshtml.g.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Create.cshtml.g.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Delete.cshtml.g.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Details.cshtml.g.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Edit.cshtml.g.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Index.cshtml.g.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Student_Result\Create.cshtml.g.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Student_Result\Delete.cshtml.g.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Student_Result\Details.cshtml.g.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Student_Result\Edit.cshtml.g.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Student_Result\Index.cshtml.g.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.RazorTargetAssemblyInfo.cache
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.RazorTargetAssemblyInfo.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.Views.pdb
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.dll
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.pdb
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.csproj.CopyComplete
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Customers\IndexSingle.cshtml.g.cs
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.csprojAssemblyReference.cache
+F:\9th-Module\aka\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\DeliveryBoys\Sample.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\bin\Debug\netcoreapp2.1\appsettings.json
+F:\9th-Module\NibirFashon\AspNetCoreProject\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+F:\9th-Module\NibirFashon\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.deps.json
+F:\9th-Module\NibirFashon\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.runtimeconfig.json
+F:\9th-Module\NibirFashon\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.runtimeconfig.dev.json
+F:\9th-Module\NibirFashon\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.dll
+F:\9th-Module\NibirFashon\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.pdb
+F:\9th-Module\NibirFashon\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.Views.dll
+F:\9th-Module\NibirFashon\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.Views.pdb
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.csprojAssemblyReference.cache
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.RazorAssemblyInfo.cache
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.RazorAssemblyInfo.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.AssemblyInfoInputs.cache
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.AssemblyInfo.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.TagHelpers.input.cache
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.TagHelpers.output.cache
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.RazorCoreGenerate.cache
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Account\Logout.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Account\Roll.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Account\RollMappingToUser.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Account\RollMappingToUserList.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Create.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Delete.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Details.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Edit.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Index.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\CustomerReviews\Create.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\CustomerReviews\Delete.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\CustomerReviews\Details.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\CustomerReviews\Edit.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\CustomerReviews\Index.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Customers\Create.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Customers\Delete.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Customers\Details.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Customers\Edit.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Customers\Index.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Customers\IndexSingle.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\DeliveryBoys\Create.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\DeliveryBoys\Delete.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\DeliveryBoys\Details.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\DeliveryBoys\Edit.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\DeliveryBoys\Index.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\DeliveryBoys\Sample.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Employees\Create.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Employees\Delete.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Employees\Details.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Employees\Edit.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Employees\Index.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\Setting.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Create.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Delete.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Details.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Edit.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Index.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Create.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Delete.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Details.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Edit.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Index.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\MenuHelperModels\Create.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\MenuHelperModels\Delete.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\MenuHelperModels\Details.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\MenuHelperModels\Edit.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\MenuHelperModels\Index.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\OrderDtls\Create.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\OrderDtls\Delete.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\OrderDtls\Details.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\OrderDtls\Edit.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\OrderDtls\Index.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Orders\Create.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Orders\Delete.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Orders\Details.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Orders\Edit.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Orders\Index.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Products\Create.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Products\Delete.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Products\Details.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Products\Edit.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Products\Index.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\ShippingInfoes\Create.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\ShippingInfoes\Delete.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\ShippingInfoes\Details.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\ShippingInfoes\Edit.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\ShippingInfoes\Index.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Create.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Delete.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Details.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Edit.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Index.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Student_Result\Create.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Student_Result\Delete.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Student_Result\Details.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Student_Result\Edit.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Student_Result\Index.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.RazorTargetAssemblyInfo.cache
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.RazorTargetAssemblyInfo.cs
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.Views.pdb
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.dll
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.pdb
+F:\9th-Module\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.csproj.CopyComplete
+D:\9 modiul\NibirFashon\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.deps.json
+D:\9 modiul\NibirFashon\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.runtimeconfig.json
+D:\9 modiul\NibirFashon\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.runtimeconfig.dev.json
+D:\9 modiul\NibirFashon\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.dll
+D:\9 modiul\NibirFashon\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.pdb
+D:\9 modiul\NibirFashon\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.Views.dll
+D:\9 modiul\NibirFashon\AspNetCoreProject\bin\Debug\netcoreapp2.1\AspNetCoreProject.Views.pdb
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.csprojAssemblyReference.cache
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.csproj.CoreCompileInputs.cache
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.RazorAssemblyInfo.cache
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.RazorAssemblyInfo.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.AssemblyInfoInputs.cache
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.AssemblyInfo.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.TagHelpers.input.cache
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.TagHelpers.output.cache
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.RazorCoreGenerate.cache
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Account\Logout.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Account\Roll.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Account\RollMappingToUser.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Account\RollMappingToUserList.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Create.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Delete.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Details.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Edit.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Categories\Index.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\CustomerReviews\Create.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\CustomerReviews\Delete.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\CustomerReviews\Details.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\CustomerReviews\Edit.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\CustomerReviews\Index.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Customers\Create.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Customers\Delete.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Customers\Details.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Customers\Edit.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Customers\Index.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Customers\IndexSingle.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\DeliveryBoys\Create.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\DeliveryBoys\Delete.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\DeliveryBoys\Details.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\DeliveryBoys\Edit.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\DeliveryBoys\Index.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\DeliveryBoys\Sample.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Employees\Create.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Employees\Delete.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Employees\Details.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Employees\Edit.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Employees\Index.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Home\Setting.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Create.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Delete.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Details.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Edit.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModelManages\Index.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Create.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Delete.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Details.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Edit.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\Index.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\MenuHelperModels\Create.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\MenuHelperModels\Delete.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\MenuHelperModels\Details.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\MenuHelperModels\Edit.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuModels\MenuHelperModels\Index.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\OrderDtls\Create.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\OrderDtls\Delete.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\OrderDtls\Details.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\OrderDtls\Edit.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\OrderDtls\Index.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Orders\Create.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Orders\Delete.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Orders\Details.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Orders\Edit.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Orders\Index.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Products\Create.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Products\Delete.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Products\Details.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Products\Edit.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Products\Index.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\ShippingInfoes\Create.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\ShippingInfoes\Delete.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\ShippingInfoes\Details.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\ShippingInfoes\Edit.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\ShippingInfoes\Index.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Create.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Delete.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Details.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Edit.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\StudentModels\Index.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Student_Result\Create.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Student_Result\Delete.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Student_Result\Details.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Student_Result\Edit.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\Student_Result\Index.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.RazorTargetAssemblyInfo.cache
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.RazorTargetAssemblyInfo.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.Views.pdb
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.dll
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.pdb
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\AspNetCoreProject.csproj.CopyComplete
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Create.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Delete.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Details.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Edit.g.cshtml.cs
+D:\9 modiul\NibirFashon\AspNetCoreProject\obj\Debug\netcoreapp2.1\Razor\Views\MenuHelperModels\Index.g.cshtml.cs

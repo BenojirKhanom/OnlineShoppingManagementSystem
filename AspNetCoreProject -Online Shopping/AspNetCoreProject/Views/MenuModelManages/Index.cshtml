@@ -1,0 +1,65 @@
+﻿@model IEnumerable<AspNetCoreProject.Models.MenuModelManage>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Con_Act_Roll)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Retrive)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Insert)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Update)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Delete)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MenuModel)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Con_Act_Roll)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Retrive)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Insert)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Update)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Delete)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MenuModel.Id)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.MenuModelId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.MenuModelId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.MenuModelId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

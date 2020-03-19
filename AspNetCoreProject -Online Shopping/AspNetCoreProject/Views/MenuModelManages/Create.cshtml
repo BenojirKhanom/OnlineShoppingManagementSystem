@@ -1,0 +1,80 @@
+﻿@model IList<AspNetCoreProject.Models.MenuModelManage>
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h2>Give Permission </h2>
+
+@{
+    int index = 0;
+}
+
+<form method="post" asp-controller="MenuModelManages" asp-action="Create">
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    Con_Act_Roll
+                </th>
+                <th>
+                    Retrive
+                </th>
+                <th>
+                    Insert
+                </th>
+                <th>
+                    Update
+                </th>
+                <th>
+                    Delete
+                </th>
+
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+            <tr>
+                <td>
+
+                    <input type="hidden" name="menuModelManages[@index].MenuModelId" value="@item.MenuModelId" />
+                    <input type="hidden" name="menuModelManages[@index].Con_Act_Roll" value="@item.Con_Act_Roll" />
+                    <div>
+                        @item.Con_Act_Roll
+                    </div>
+                </td>
+                <td>
+
+                    @Html.CheckBox("menuModelManages[" + index + "].Retrive", item.Retrive)
+
+                </td>
+                <td>
+
+                    @Html.CheckBox("menuModelManages[" + index + "].Insert", item.Insert)
+
+                </td>
+                <td>
+                    @Html.CheckBox("menuModelManages[" + index + "].Update", item.Update)
+
+                </td>
+                <td>
+                    @Html.CheckBox("menuModelManages[" + index + "].Delete", item.Delete)
+
+                </td>
+
+
+            </tr>
+
+                index++;
+
+            }
+        </tbody>
+    </table>
+
+     <input type="submit" value="give permission" /> 
+
+</form>
+
+

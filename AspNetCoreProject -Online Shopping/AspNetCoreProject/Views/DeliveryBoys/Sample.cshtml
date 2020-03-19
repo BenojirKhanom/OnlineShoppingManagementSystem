@@ -1,0 +1,161 @@
+﻿
+@{
+    
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Multidata Insert</title>
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <script src="~/Scripts/jquery-3.4.1.js"></script>
+</head>
+<body>
+
+    @*<style>
+        body {
+            background-image: url('../../wwwroot/images/aroplane/airplane4.jpg');
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+    </style>*@
+
+    <div>
+        <br />
+        <div class="w3-card-4">
+            <div class="w3-container w3-brown">
+                <h3>Multiple Data Insert to DeliveryBoy Table</h3>
+            </div>
+            <form class="w3-container" action="/action_page.php">
+                <p>
+                
+                <label class="w3-text-brown"><b>Delivery Boy Name :</b></label>
+                <input class="w3-input w3-border w3-sand" type="text" id="DeliveryBoyName">
+                </p>
+                <p>
+                    <input type="button" class="w3-btn w3-brown" id="btnUpdateUserDetail" value="Add" onclick="AddValueToList();" />
+                    <input type="button" class="w3-btn w3-brown" id="btnUpdateUserDetailEdit" value="Save" onclick="EditValueToList();" />
+                </p>
+            </form>
+        </div>
+
+        <br />
+        <table id="infoTable" class="table">
+            <thead>
+                <tr class="info">
+                    <th>Delivery Boy ID</th>
+                    <th>Delivery Boy Name</th>
+                    
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+        <input type="button" id="btnUpdateUserDetail" value="Submit to Server" onclick="UpdateDeliveryBoyInfo();" />
+    </div>
+</body>
+</html>
+
+<script lang="en" type="text/javascript">
+
+    var DeliveryBoyId = 0;
+    var DeliveryBoyList = [];
+    function AddValueToList() {
+
+        var a = document.getElementById("DeliveryBoyName").value;
+      
+        if (a == "" ) {
+            alert("Input data can not empty");
+            return false;
+        }
+
+        DeliveryBoyId = 0;
+        var DeliveryBoy = {};
+        DeliveryBoy["DeliveryBoyId"] = DeliveryBoyList.length + 1;
+        DeliveryBoy["DeliveryBoyName"] = document.getElementById("DeliveryBoyName").value;
+        
+        DeliveryBoyList.push(DeliveryBoy);
+        fillTable();
+
+    }
+
+    function EditValueToList() {
+        for (var i = DeliveryBoyList.length; i--;) {
+            if (DeliveryBoyList[i].DeliveryBoyId === DeliveryBoyId) {
+                DeliveryBoyList[i].DeliveryBoyName = document.getElementById("DeliveryBoyName").value;
+               
+                break;
+            }
+        }
+
+        fillTable();
+    }
+
+    function fillTable() {
+
+        $('#infoTable > tbody').empty();
+
+        DeliveryBoyList.forEach(function (val) {
+            $('#infoTable > tbody:last-child').append('<tr><td>' + val.DeliveryBoyId + '</td><td>' + val.DeliveryBoyName + '</td><td><input type="button"  value="Delete" onclick="tempDelete(' + val.DeliveryBoyId + ')" /><input type="button"  value="Edit" onclick="editPre(' + val.DeliveryBoyId + ')" /></td></tr>');
+        })
+    }
+
+    function tempDelete(DeliveryBoyId) {
+        remove(DeliveryBoyList, DeliveryBoyId);
+        fillTable();
+    }
+
+    function editPre(DeliveryBoyId) {
+        for (var i = DeliveryBoyList.length; i--;) {
+            if (DeliveryBoyList[i].DeliveryBoyId === DeliveryBoyId) {
+                DeliveryBoyId = DeliveryBoyId;
+                document.getElementById("DeliveryBoyName").value = DeliveryBoyList[i].DeliveryBoyName;
+                
+                break;
+            }
+        }
+    }
+
+    function remove(arr, item) {
+        for (var i = arr.length; i--;) {
+            if (arr[i].DeliveryBoyId === item) {
+                arr.splice(i, 1);
+            }
+        }
+
+        for (var i = 0; i < arr.length; i++) {
+            arr[i].DeliveryBoyId = i + 1;
+        }
+
+    }
+
+    function UpdateDeliveryBoyInfo() {
+        var DeliveryBoyJson = JSON.stringify(DeliveryBoyList);
+        var getReportColumnsParams = { "DeliveryBoyJson": DeliveryBoyJson };
+        $.ajax({
+            type: "POST",
+            traditional: true,
+            async: false,
+            cache: false,
+            url: '/DeliveryBoys/insertDeliveryBoyInfo',
+            context: document.body,
+            data: getReportColumnsParams,
+            success: function (result) {
+                alert(result);
+            },
+            error: function (xhr) {
+                //debugger;
+                console.log(xhr.responseText);
+                alert("Error has occurred..");
+            }
+        });
+        DeliveryBoyList = [];
+        document.getElementById("DeliveryBoyName").value = '';
+        
+        fillTable();
+    }
+
+</script>

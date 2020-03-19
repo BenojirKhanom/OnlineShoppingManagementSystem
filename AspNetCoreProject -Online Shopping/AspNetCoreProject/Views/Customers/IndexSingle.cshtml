@@ -1,0 +1,183 @@
+﻿@model AspNetCoreProject.Models.SelectedInfoModel
+@{
+    
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+@if (Model.ShippingInfos != null)
+{
+
+    <h1>Shipping Info </h1>
+
+
+    <table class="table">
+        <tr>
+            <th>
+                ShippingCost
+            </th>
+            <th>
+                ShippingDate
+            </th>
+            <th>
+                DeliveryBoyName
+            </th>
+            <th>ACTION</th>
+        </tr>
+
+
+        @foreach (var item in Model.ShippingInfos)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ShippingCost)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ShippingDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DeliveryBoy.DeliveryBoyName)
+                </td>
+                <td>
+                    @*<a asp-controller="ShippingInfoes" asp-action="Create" asp-route-id="@item.ShippingId">Create</a> |
+                    <a asp-controller="ShippingInfoes" asp-action="Edit" asp-route-id="@item.ShippingId">Edit</a> |
+                    <a asp-controller="ShippingInfoes" asp-action="Details" asp-route-id="@item.ShippingId">Details</a> |
+                    <a asp-controller="ShippingInfoes" asp-action="Delete" asp-route-id="@item.ShippingId">Delete</a>*@
+
+                    @Html.ActionLink("Create", "Create", "ShippingInfoes", new { id = item.ShippingId }, null) |
+                    @Html.ActionLink("Edit", "Edit", "ShippingInfoes", new { id = item.ShippingId }, null) |
+                    @Html.ActionLink("Details", "Details", "ShippingInfoes", new { id = item.ShippingId }, null) |
+                    @Html.ActionLink("Delete", "Delete", "ShippingInfoes", new { id = item.ShippingId }, null)
+                </td>
+            </tr>
+        }
+
+
+    </table>
+}
+
+
+
+@if (Model.Orders != null)
+{
+
+    <h1> Order Info </h1>
+
+    <table class="table">
+        <tr>
+            <th>
+                Orderdate
+            </th>
+            <th>
+                CustomerName
+            </th>
+            <th>
+                ShippingCost
+            </th>
+            <th>ACTION</th>
+        </tr>
+
+
+
+
+        @foreach (var item in Model.Orders)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Orderdate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Customer.CustomerName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ShippingInfo.ShippingCost)
+                </td>
+                <td>
+                    <a asp-action="IndexSingle" asp-route-ShippingId="@item.ShippingId">Shipping Info</a> |
+                    @*<a asp-controller="Orders" asp-action="Create" asp-route-id="@item.CustomerId">Create</a> |
+                        <a asp-controller="Orders" asp-action="Edit" asp-route-id="@item.CustomerId">Edit</a> |
+                        <a asp-controller="Orders" asp-action="Details" asp-route-id="@item.CustomerId">Details</a> |
+                        <a asp-controller="Orders" asp-action="Delete" asp-route-id="@item.CustomerId">Delete</a>*@
+
+                  
+                     @Html.ActionLink("Create", "Create", "Orders", new { id = item.OrderId }, null) |
+                        @Html.ActionLink("Edit", "Edit", "Orders", new { id = item.OrderId }, null) |
+                        @Html.ActionLink("Details", "Details", "Orders", new { id = item.OrderId }, null) |
+                        @Html.ActionLink("Delete", "Delete", "Orders", new { id = item.OrderId }, null)
+
+                </td>
+            </tr>
+        }
+
+
+
+    </table>
+
+}
+
+
+
+
+
+@if (Model != null)
+{
+    <h1>Customer </h1>
+    <table class="table">
+        <tr>
+            <th>
+                Customer Name
+            </th>
+            <th>
+                Address
+            </th>
+            <th>
+                Number
+            </th>
+            <th>Action</th>
+        </tr>
+
+        @if (Model.Customers != null)
+        {
+
+            foreach (var item in Model.Customers)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.CustomerName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Address)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Number)
+                    </td>
+                    <td>
+                        @*@Html.ActionLink("select", "getRelatedGuest", new { GuestId = item.GuestId }, new { @class = "btn" })*@
+                        <a asp-action="IndexSingle" asp-route-CustomerId="@item.CustomerId">Order Info</a> |
+                        @*<a asp-controller="Customers" asp-action="Create" asp-route-id="@item.CustomerId">Create</a> |
+                            <a asp-controller="Customers" asp-action="Edit" asp-route-id="@item.CustomerId">Edit</a> |
+                            <a asp-controller="Customers" asp-action="Details" asp-route-id="@item.CustomerId">Details</a> |
+                            <a asp-controller="Customers" asp-action="Delete" asp-route-id="@item.CustomerId">Delete</a>*@
+
+
+                        @*@Html.ActionLink("Order Info", "IndexSingle", new { CustomerId = item.CustomerId }) |*@
+                        @Html.ActionLink("Create", "Create", new { id = item.CustomerId }) |
+                        @Html.ActionLink("Edit", "Edit", new { id = item.CustomerId }) |
+                        @Html.ActionLink("Details", "Details", new { id = item.CustomerId }) |
+                        @Html.ActionLink("Delete", "Delete", new { id = item.CustomerId })
+                    </td>
+                </tr>
+            }
+
+        }
+
+    </table>
+}
+
+
+
+
+
+
+
+

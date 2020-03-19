@@ -1,0 +1,54 @@
+﻿@model IList<UserRollMapping>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-md-3">
+                <h2><strong>Login Page </strong></h2><br />
+                <form name="applicationRoles" asp-action="RollMappingToUser" asp-controller="Account" method="post">
+
+                    <div>
+                     Roll Applied For : @ViewData["UserName"].ToString() 
+                        <input type="hidden" name="UserName" value="@ViewData["UserName"].ToString()" />
+                    </div>
+
+                    <table>
+                        <tr>
+                            <td>
+                                RollName
+                            </td>
+                            <td>
+                                Tick
+                            </td>
+                        </tr>
+
+                        @{ 
+                            int index = 0;
+                        }
+
+                        @foreach (UserRollMapping applicationRoles in Model)
+                        {
+
+                            <tr>
+                                <td>
+                                   <input type="text" readonly name="applicationRoles[@index].Role.Name" value="@applicationRoles.Role.Name" />
+                                  
+                                </td>
+                                <td>
+                                    @Html.CheckBox("applicationRoles["+index+"].IsChecked")
+                                    
+                                </td>
+                            </tr>
+                            {
+                                index += 1;
+                            }
+                        }
+                    </table>
+
+                    <div class="form-check">
+                        <button class="btn btn-info" type="reset">Reset</button>
+                        <button type="submit" class="btn btn-primary">Submit</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
